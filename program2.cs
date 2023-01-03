@@ -1,5 +1,11 @@
-string[] names = { "Prakash", "Naruto", "David Bechkam", "Michael jackson" };
-for (int i = 0; i < names.Length; i++)
-    if (names[i] == "David Bechkam") names[i] = "Saint Cazola";
-
-foreach (var name in names) Console.WriteLine(name);
+for (int i = 1; i < 101; i++)
+{
+    if ((i % 3 == 0) && (i % 5 == 0))
+        Console.WriteLine($"{i} - UthyoBasyo");
+    else if (i % 3 == 0)
+        Console.WriteLine($"{i} - Uthyo");
+    else if (i % 5 == 0)
+        Console.WriteLine($"{i} - Basyo");
+    else
+        Console.WriteLine($"{i}");
+}
