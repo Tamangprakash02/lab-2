@@ -1,5 +1,5 @@
-for (int i = 0; i < 100; i++)
+string[] names = { "Alex", "Eddie", "David", "Michael" };
+for (int i = names.Length - 1; i >= 0; i--)
 {
-    Console.WriteLine(i);
-    if (i == 8) break;
+    Console.WriteLine(names[i]);
 }
