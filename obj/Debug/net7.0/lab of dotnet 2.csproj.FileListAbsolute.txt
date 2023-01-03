@@ -1,0 +1,15 @@
+/Users/prakashtamang/Desktop/lab of dotnet 2/bin/Debug/net7.0/lab of dotnet 2
+/Users/prakashtamang/Desktop/lab of dotnet 2/bin/Debug/net7.0/lab of dotnet 2.deps.json
+/Users/prakashtamang/Desktop/lab of dotnet 2/bin/Debug/net7.0/lab of dotnet 2.runtimeconfig.json
+/Users/prakashtamang/Desktop/lab of dotnet 2/bin/Debug/net7.0/lab of dotnet 2.dll
+/Users/prakashtamang/Desktop/lab of dotnet 2/bin/Debug/net7.0/lab of dotnet 2.pdb
+/Users/prakashtamang/Desktop/lab of dotnet 2/obj/Debug/net7.0/lab of dotnet 2.csproj.AssemblyReference.cache
+/Users/prakashtamang/Desktop/lab of dotnet 2/obj/Debug/net7.0/lab of dotnet 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prakashtamang/Desktop/lab of dotnet 2/obj/Debug/net7.0/lab of dotnet 2.AssemblyInfoInputs.cache
+/Users/prakashtamang/Desktop/lab of dotnet 2/obj/Debug/net7.0/lab of dotnet 2.AssemblyInfo.cs
+/Users/prakashtamang/Desktop/lab of dotnet 2/obj/Debug/net7.0/lab of dotnet 2.csproj.CoreCompileInputs.cache
+/Users/prakashtamang/Desktop/lab of dotnet 2/obj/Debug/net7.0/lab of dotnet 2.dll
+/Users/prakashtamang/Desktop/lab of dotnet 2/obj/Debug/net7.0/refint/lab of dotnet 2.dll
+/Users/prakashtamang/Desktop/lab of dotnet 2/obj/Debug/net7.0/lab of dotnet 2.pdb
+/Users/prakashtamang/Desktop/lab of dotnet 2/obj/Debug/net7.0/lab of dotnet 2.genruntimeconfig.cache
+/Users/prakashtamang/Desktop/lab of dotnet 2/obj/Debug/net7.0/ref/lab of dotnet 2.dll
